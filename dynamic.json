@@ -1,0 +1,43 @@
+{
+  "basics":{
+    "image":"images/images.jpg",
+    "name":"Hemanth",
+    "email":"hemanth@gmail.com"
+  },
+  "CARRIER":{
+    "info":"i want to seek a positon where i can explore any taughts and skills for the benefit of the orgnisation "
+  },
+  "EDUCATIONAL":[
+{
+  "sno":"1",
+  "degree":"btech",
+  "institute":"mits",
+  "percentage":"80%",
+  "yop":2021
+},
+{
+  "sno":"2",
+  "degree":"inter",
+  "institute":"narayana jr clg",
+  "percentage":"95%",
+  "yop":2017
+},
+{
+  "sno":"3",
+  "degree":"ssc",
+  "institute":"at gehs",
+  "percentage":"95",
+  "yop":2015
+}],
+  "skills":[
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    }
+  ]
+}

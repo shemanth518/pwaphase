@@ -1,0 +1,23 @@
+body{
+  background:#e83f1a;
+  display:flex;
+}
+.right{
+  display:flex;
+  background-color:#35d835;
+  text-align:center;
+   flex:auto;
+   justify-content: space-around;
+   width:25;
+   box-shadow: 5px 5px 5px black;
+
+}
+.left{
+  display:flex;
+  background-color:#c235d8;
+  text-align: center;
+  width:65;
+}
+.table{
+  border:1px solid orange;
+}
